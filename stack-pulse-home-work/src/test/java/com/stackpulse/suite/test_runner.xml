@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Todomvc">
+
+    <test name="ChromeTest">
+        <parameter name="url" value="https://zalmoxisus.github.io/examples/todomvc/"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.stackpulse.test.ToDoMVCTest"/>
+        </classes>
+    </test>
+    <test name="FireFoxTest">
+        <parameter name="url" value="https://zalmoxisus.github.io/examples/todomvc/"/>
+        <parameter name="browser" value="firefox"/>
+        <classes>
+<!--            <class name="com.stackpulse.test.ToDoMVCTest"/>-->
+        </classes>
+    </test>
+    <test name="InternetExplorerTest">
+        <parameter name="browser" value="ie"/>
+        <classes>
+
+        </classes>
+    </test>
+    <test name="EdgeTest">
+        <parameter name="browser" value="edge"/>
+        <classes>
+
+        </classes>
+    </test>
+</suite>

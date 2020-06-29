@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb59ab57-b098-4a70-8220-ddf3e4d0597c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dzhdXKxMJZ3m7dyVkMVRNGeI3G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/eclipse_js/colboyny/stack-pulse-home-work/src/test/java/com/stackpulse/suite/test_runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="stack-pulse-home-work" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/stackpulse/suite/test_runner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/eclipse_js/colboyny/stack-pulse-home-work/src/test/java/com/stackpulse/suite/test_runner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb59ab57-b098-4a70-8220-ddf3e4d0597c" name="Default Changelist" comment="" />
+      <created>1593433916382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593433916382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="287" key="GridCell.Tab.0.bottom" timestamp="1593445976149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="287" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593445976149" />
+    <state width="1323" height="287" key="GridCell.Tab.0.center" timestamp="1593445976149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="287" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593445976149" />
+    <state width="1323" height="287" key="GridCell.Tab.0.left" timestamp="1593445976149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="287" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593445976149" />
+    <state width="1323" height="287" key="GridCell.Tab.0.right" timestamp="1593445976149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="287" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593445976149" />
+    <state width="1323" height="225" key="GridCell.Tab.1.bottom" timestamp="1593445928104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593445928104" />
+    <state width="1323" height="225" key="GridCell.Tab.1.center" timestamp="1593445928104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593445928104" />
+    <state width="1323" height="225" key="GridCell.Tab.1.left" timestamp="1593445928104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593445928104" />
+    <state width="1323" height="225" key="GridCell.Tab.1.right" timestamp="1593445928104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593445928104" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="todoCountLbl.findElements(By.tagName(&quot;strong&quot;)).get(0).getText()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
